@@ -19,3 +19,4 @@ updated the content of my web page to read "Welcome to SCA  Cloud School Applica
 I Commited my changes and merged branch in git.
 
 I pushed my final docker image to dockerhub... linked is https://hub.docker.com/u/helenbliss 
+I pushed my project to github
