@@ -22,4 +22,3 @@
 
 - I pushed my final docker image to dockerhub... linked is https://hub.docker.com/u/helenbliss 
 
--I pushed my project to github
