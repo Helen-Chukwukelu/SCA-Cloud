@@ -1,22 +1,25 @@
-# SCA-Cloud-School-Application
+# SCA-Cloud
 
-I installed Docker.
+### Install Docker, create a Dockerfile for your application, build the image and push to Dockerhub
 
-Created a docker hub account.
+- I installed Docker.
 
-I installed httpd web server, configured it, I used simple html code for the website and added the content required.
+- Created a docker hub account.
 
-I created a dockerfile and used that to build my image.
+- I installed httpd web server, configured it, I used simple html code for the website and added the content required.
 
-I ran the container and tested my application...running well.
+- I created a dockerfile and used that to build my image.
 
-I created a branch called Start and feature.
+- I ran the container and tested my application...running well.
 
-I committed my dockerfile in the docker folder.
+- I created a branch called Start and feature.
 
-updated the content of my web page to read "Welcome to SCA  Cloud School Application, this is my first assessment".
+- I committed my dockerfile in the docker folder.
 
-I Commited my changes and merged branch in git.
+- updated the content of my web page to read "Welcome to SCA  Cloud School Application, this is my first assessment".
 
-I pushed my final docker image to dockerhub... linked is https://hub.docker.com/u/helenbliss 
-I pushed my project to github
+- I Commited my changes and merged branch in git.
+
+- I pushed my final docker image to dockerhub... linked is https://hub.docker.com/u/helenbliss 
+
+-I pushed my project to github
